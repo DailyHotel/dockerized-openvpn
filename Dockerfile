@@ -1,4 +1,4 @@
-FROM kylemanna/openvpn:latest
+FROM kylemanna/openvpn:2.3
 
 MAINTAINER Keaton Choi "keaton@dailyhotel.com"
 
